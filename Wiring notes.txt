@@ -1,0 +1,7 @@
+Button: GPIO 12
+Select A: GPIO 16
+Select B: GPIO 20
+Decoder A: GPIO 5
+Decoder B: GPIO 6
+Decoder C: GPIO 13
+Decoder D: GPIO 19
